@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/aheukels/Test-project/_apis/build/status/arheukels.pipelines-java?branchName=main)](https://dev.azure.com/aheukels/Test-project/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
